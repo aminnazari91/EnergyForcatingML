@@ -1,0 +1,3 @@
+ASHRAE - Great Energy Predictor III: https://www.kaggle.com/c/ashrae-energy-prediction/overview
+
+Time series forecasting of solar energy: https://www.kaggle.com/datasets/chaitanyakumar12/time-series-forecasting-of-solar-energy
